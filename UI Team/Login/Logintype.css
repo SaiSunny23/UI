@@ -1,0 +1,14 @@
+.main_logo {
+    width: 180px;
+    height: 100px;
+}
+
+.top-header{
+    display: flex;
+    align-items: center;
+}
+
+.top-header  span {
+        position: absolute;
+        right: 50px;
+}
